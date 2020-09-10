@@ -1,1 +1,1 @@
- **A simple personal blog.**
+ **A simple personal blog made with Jekyll.**
